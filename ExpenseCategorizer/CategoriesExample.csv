@@ -1,0 +1,95 @@
+category,keyword
+Bills,bill
+Bills,utility
+Bills,phone
+Bills,internet
+Bills,electric
+Bills,water
+Bills,gas
+Groceries,shoppers
+Groceries,trader
+Groceries,grocery
+Groceries,market
+Groceries,supermarket
+Groceries,target
+Groceries,wal-mart
+Subscriptions,subscription
+Subscriptions,netflix
+Subscriptions,hulu
+Subscriptions,amazon prime
+Subscriptions,spotify
+Car Insurance,car insurance
+Car Insurance,allstate
+Home Insurance,home insurance
+Home Insurance,FEMA
+Home Insurance,flood
+Gas,gas station
+Gas,fuel
+Gas,oil
+Gas,chevron
+Gas,racetrac
+Gas,love
+Gas,petro
+Gas,conoco
+Gas,exxon
+Gas,circle k
+Gas,food bucket
+Gas,texaco
+Gas,best stop
+Gas,discount zone
+Gas,raceway
+Gas,buc-ee
+Gas,shell
+Gas,citgo
+Gas,pilot
+Gas,7-eleven
+Dining,restaurant
+Dining,cafe
+Dining,diner
+Dining,canteen
+Dining,taco
+Dining,burger
+Dining,subway
+Dining,wendy
+Dining,mcdonald
+Dining,restaur
+Dining,sonic
+Dining,falafel
+Dining,kitchen
+Dining,coffee
+Dining,espresso
+Dining,starbuck
+Dining,chipotle
+Alcohol,bar
+Alcohol,pub
+Alcohol,wine
+Entertainment,theater
+Entertainment,books
+Entertainment,theatre
+Clothes,clothing store
+Clothes,apparel
+Home Improvement,home improvement
+Home Improvement,hardware
+Home Improvement,tool
+Home Improvement,home depot
+Home Improvement,lowe
+Home Improvement,homedepot
+Home Improvement,ikea
+Home Improvement,freight
+Medical,doctor
+Medical,dentist
+Medical,dental
+Medical,hospital
+Medical,vision
+Travel,hotel
+Travel,quinta
+Travel,united
+Car Maint,reilly
+Car Maint,napa
+Amazon,amzn
+Amazon,amazon
+Deposits,deposit
+Deposits,payroll
+Mortgage,mortgage
+ATM,atm
+Misc,
